@@ -1,6 +1,6 @@
 # 📊 Bootcamp Python Data Analytics - DIO & Squadio
 
-### Neste repositório estão disponíveis as minhas anotações e códigos relativos ao Bootcamp de Python Data Analytics da [Digital Innovation One](https://www.dio.me/).
+## Neste repositório estão disponíveis as minhas anotações e códigos relativos ao Bootcamp de Python Data Analytics da [Digital Innovation One](https://www.dio.me/).
 
 ## Objetivo 🎯
 - Dominar os conceitos de funções Python e seus principais comandos. <br>
