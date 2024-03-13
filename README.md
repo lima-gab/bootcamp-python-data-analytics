@@ -20,4 +20,3 @@
 
 ## Anotações
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hickory-tugboat-783.notion.site/Python-Data-Analytics-Bootcamp-c3c498b8e6ea489780778f6d7f687ac2?pvs=4)
-=======
