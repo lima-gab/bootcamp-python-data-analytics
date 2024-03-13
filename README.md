@@ -8,7 +8,6 @@
 - Integrar todo o conhecimento adquirido ao Power BI.
 
 ## Conteúdo do Bootcamp ✍🏽
-- [Princípios de Desenvolvimento de Software Colaborativo.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/principios-de-desenvolvimento-de-software-colaborativo)
 - [Introdução à Ciência de Dados com Python.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/introducao-a-ciencia-de-dados-com-python)
 - [Primeiros Passos em SQL e NoSQL.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/primeiros-passos-em-sql-e-nosql)
 - [Visualização e Análise de Dados com Power BI.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/visualizacao-e-analise-de-dados-com-power-bi)
