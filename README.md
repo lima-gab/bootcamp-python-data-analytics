@@ -21,9 +21,3 @@
 ## Anotações
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hickory-tugboat-783.notion.site/Python-Data-Analytics-Bootcamp-c3c498b8e6ea489780778f6d7f687ac2?pvs=4)
 =======
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-
-
-
->>>>>>> 7e9a71639d44513895321bcfd619879e7f9ecf4d
