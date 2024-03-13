@@ -7,14 +7,14 @@
 - Dar os primeiros passos em noções importantes de base de dados relacionais e não relacionais (SQL e NoSQL).
 - Integrar todo o conhecimento adquirido ao Power BI.
 
-## Conteúdo do Bootcamp
-- Princípios de Desenvolvimento de Software Colaborativo.
-- Introdução à Ciência de Dados com Python.
-- Primeiros Passos em SQL e NoSQL.
-- Visualização e Análise de Dados com Power BI.
-- Fundamentos e Técnicas de Machine Learning.
+## Conteúdo do Bootcamp ✍🏽
+- [Princípios de Desenvolvimento de Software Colaborativo.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/principios-de-desenvolvimento-de-software-colaborativo)
+- [Introdução à Ciência de Dados com Python.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/introducao-a-ciencia-de-dados-com-python)
+- [Primeiros Passos em SQL e NoSQL.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/primeiros-passos-em-sql-e-nosql)
+- [Visualização e Análise de Dados com Power BI.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/visualizacao-e-analise-de-dados-com-power-bi)
+- [Fundamentos e Técnicas de Machine Learning.](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/fundamentos-e-tecnicas-de-machine-learning)
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
