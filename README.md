@@ -14,7 +14,7 @@
 - [Fundamentos e Técnicas de Machine Learning](https://github.com/lima-gab/bootcamp_python-data-analytics/tree/main/fundamentos-e-tecnicas-de-machine-learning)
 
 ## Tecnologias Utilizadas 💻
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/pt-br/3/tutorial/) [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/pt-br/latest/) [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/power-bi/)
 
 ## Anotações 📝
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hickory-tugboat-783.notion.site/Python-Data-Analytics-Bootcamp-c3c498b8e6ea489780778f6d7f687ac2?pvs=4)
